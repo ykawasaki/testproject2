@@ -1,1 +1,2 @@
 fugahoge
+colone2
